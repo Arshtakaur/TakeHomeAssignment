@@ -20,3 +20,4 @@ client_secret: Your_client_secret
 username: Your_username
 password: Your_password
 ```
+Please ensure the request body is of type ```x-www-form-urlencoded```.
